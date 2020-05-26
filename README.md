@@ -1,4 +1,4 @@
-# oh-my-zsh
+# oh-my-zsh (deprecated)
 
 oh-my-zsh is an extension for the [bedrock](https://github.com/bedrock-env/ack)
 project to provide oh-my-zsh in the bedrock environment.
